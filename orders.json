@@ -1,0 +1,9 @@
+{
+  "orders": [
+    { "id": 1001, "customer_id": "cus_alpha", "amount_cents": 1250, "currency": "usd" },
+    { "id": 1002, "customer_id": "cus_beta", "amount_cents": 34000, "currency": "USD" },
+    { "id": 1003, "customer_id": "cus_gamma", "amount_cents": 9999, "currency": "usd" },
+    { "id": 1004, "customer_id": "cus_delta", "amount_cents": 500, "currency": "eur" },
+    { "id": 1005, "customer_id": "cus_epsilon", "amount_cents": 0, "currency": "usd" }
+  ]
+}
